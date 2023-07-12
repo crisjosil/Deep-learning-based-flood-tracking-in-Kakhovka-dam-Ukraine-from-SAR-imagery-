@@ -1,4 +1,6 @@
 # Deep-learning-based flood tracking in Kakhovka dam Ukraine from SAR imagery-
+Our team has been monitoring a recent flood event in Ukraine caused by the collapse of the Kakhovka dam. We are using using SAR imagery and cutting-edge deep learning models to do so. We have been able to track the extent of the flooding, identify affected areas, and assess the impact on communities. By leveraging these powerful images, we're able to provide real-time updates and crucial information to aid emergency response teams and help those affected. Read more [here](https://www.doorsblacksea.eu/post/721205312722485249/doors-scientists-respond-to-the-kakhovka-dam).
+
 Tracking flood extent in Near-Real-time downstream of the Kakhovka dam (Ukraine) using Early fusion attention UNET and/or a Siamese network with nested UNET.
 
 The following is a multitemporal RGB of pre and post-event Sentinel-1 images showing in blue the surface area covered by water after the dam collapsed. 
