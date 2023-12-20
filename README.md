@@ -15,7 +15,7 @@ Crutially, Sentinel-1 allows us to track the flood extent after new acquisitions
 
 ![Alt text](./Flood_tracking_maps/20230613_Flood_tracking.png?raw=true "Kakhovka dam flood extent (Ukraine)")
 
-The image above shows in dark blue the flood extent as of 20230609, in light blue the flood extent as of 20230613 and in yellow the permanent water bodies. Finally, we can zoom in to obtain some more details of the specific areas impacted by the flood waters. The city of Kerson which was highly impacted by the dam collapsed shows the following:
+The image above shows in dark blue the flood extent as of 20230609, in light blue the flood extent as of 20230613 and in yellow the permanent water bodies. We can zoom in to obtain some more details of the specific areas impacted by the flood waters. The city of Kerson was highly impacted by the dam collapse as shown below:
 
 ![Alt text](./Flood_tracking_maps/20230613_Kerson_zoom2.png?raw=true "Kakhovka dam flood extent (Ukraine)")
 
